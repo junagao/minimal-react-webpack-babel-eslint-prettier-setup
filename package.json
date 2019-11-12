@@ -1,10 +1,14 @@
 {
   "name": "minimal-react-webpack-babel-eslint-prettier-setup",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "repository": "git@github.com:junagao/minimal-react-webpack-babel-eslint-prettier-setup.git",
   "author": "Juliane Nagao <julianens@gmail.com> (http://junagao.com)",
   "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
   "devDependencies": {
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
