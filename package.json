@@ -1,0 +1,8 @@
+{
+  "name": "minimal-react-webpack-babel-eslint-prettier-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:junagao/minimal-react-webpack-babel-eslint-prettier-setup.git",
+  "author": "Juliane Nagao <julianens@gmail.com> (http://junagao.com)",
+  "license": "MIT"
+}
