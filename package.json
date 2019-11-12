@@ -6,7 +6,7 @@
   "author": "Juliane Nagao <julianens@gmail.com> (http://junagao.com)",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack-dev-server --mode development --open",
+    "dev": "webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production"
   },
   "devDependencies": {
