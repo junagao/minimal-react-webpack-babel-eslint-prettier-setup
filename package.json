@@ -21,6 +21,7 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
+    "@hot-loader/react-dom": "^16.11.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-hot-loader": "^4.12.17"
