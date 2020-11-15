@@ -4,8 +4,8 @@ This is a minimal setup for a React project running with Webpack, ESLint (airbnb
 
 ## 🧐 What's inside?
 
-- React 16
-- Webpack 4
+- React 17
+- Webpack 5
 - Babel 7
 - Hot Module Replacement
 - ESLint (airbnb styleguide)
@@ -16,7 +16,7 @@ This is a minimal setup for a React project running with Webpack, ESLint (airbnb
 1. Download the project and cd into it:
 
    ```bash
-   git clone git@github.com:junagao/minimal-react-webpack-babel-eslint-prettier-setup.git
+   git clone https://github.com/junagao/minimal-react-webpack-babel-eslint-prettier-setup.git
    cd minimal-react-webpack-babel-eslint-prettier-setup
    ```
 
